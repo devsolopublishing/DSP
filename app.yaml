@@ -1,4 +1,4 @@
 kind: wasmer.io/App.v0
-name: DSP
+name: dsp
 owner: sintax
 package: .
